@@ -4,7 +4,7 @@
 
         var DEFAULT_GIFT_DATA = {
       letterTitle: 'Gữi vợ trang yêu dấu',
-      letterContent: 'Ngày nay là 8/3 - Happy Women's Day 🌼  ,Chúc em 8/3 thật vui vẻ và ý nghĩa.  Mong rằng nụ cười của em sẽ luôn ở trên môi và luôn mang đến hạnh phúc cho anh. Chúc em luôn xinh đẹp và thành đạt với ước mơ của mình, chúc em luôn học giỏi, xinh đẹp và yêu anh nhiều hơn.  Chúc em có một ngày 8/3 thật vui vẻ nhaa 🌹❤️',
+      letterContent: 'Ngày nay là 8/3 - Happy Women Day 🌼  ,Chúc em 8/3 thật vui vẻ và ý nghĩa.  Mong rằng nụ cười của em sẽ luôn ở trên môi và luôn mang đến hạnh phúc cho anh. Chúc em luôn xinh đẹp và thành đạt với ước mơ của mình, chúc em luôn học giỏi, xinh đẹp và yêu anh nhiều hơn.  Chúc em có một ngày 8/3 thật vui vẻ nhaa 🌹❤️',
       letterSignature: 'sang dev',
       musicType: 'Sample',
       musicPath: './assets/audio/SaveTik.io_7375038953319173394 (1).mp3'
@@ -328,4 +328,5 @@
       console.error('Ã¢ÂÅ’ [Tulipanes] Error stack:', error.stack);
         }
   })(); // Ã„ÂÃƒÂ³ng IIFE
+
 
