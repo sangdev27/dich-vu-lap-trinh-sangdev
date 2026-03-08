@@ -3,9 +3,9 @@
     'use strict';
 
         var DEFAULT_GIFT_DATA = {
-      letterTitle: 'Gửi người tôi yêu thương nhất',
-      letterContent: 'Nhân ngày 8/3 này gửi đến bông hoa rực rỡ nhất, tới xin gửi  cậu bức thư siêu siêu cute này.Dù chúng ta đang ở đâu hay bận rộn với cuộc sống riêng, tớ vẫn luôn trân trọng tình bạn này. Nhân ngày 8/3, chúc cậu không chỉ xinh đẹp mà còn luôn kiên cường và hạnh phúc với lựa chọn của chính mình. Mong rằng nụ cười của cậu sẽ luôn rạng rỡ như ánh mặt trời, sưởi ấm mọi nơi cậu đi qua. Hãy luôn là phiên bản tự tin nhất của chính mình nhé!',
-      letterSignature: '',
+      letterTitle: 'Gữi vợ trang yêu dấu',
+      letterContent: 'Ngày nay là 8/3 - Happy Women's Day 🌼  ,Chúc em 8/3 thật vui vẻ và ý nghĩa.  Mong rằng nụ cười của em sẽ luôn ở trên môi và luôn mang đến hạnh phúc cho anh. Chúc em luôn xinh đẹp và thành đạt với ước mơ của mình, chúc em luôn học giỏi, xinh đẹp và yêu anh nhiều hơn.  Chúc em có một ngày 8/3 thật vui vẻ nhaa 🌹❤️',
+      letterSignature: 'sang dev',
       musicType: 'Sample',
       musicPath: './assets/audio/SaveTik.io_7375038953319173394 (1).mp3'
     };
@@ -328,3 +328,4 @@
       console.error('Ã¢ÂÅ’ [Tulipanes] Error stack:', error.stack);
         }
   })(); // Ã„ÂÃƒÂ³ng IIFE
+
